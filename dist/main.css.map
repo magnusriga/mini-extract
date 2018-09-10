@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles.css"],"names":[],"mappings":"AAAA;EACE,0CAAyD","file":"main.css","sourcesContent":["body {\r\n  background: url(./assets/images/google-logo-400x400.png);\r\n}"],"sourceRoot":""}
